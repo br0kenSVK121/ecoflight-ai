@@ -14,7 +14,6 @@ An intelligent flight route optimization system that uses AI algorithms to minim
 <img width="1424" height="823" alt="image" src="https://github.com/user-attachments/assets/1dde1122-d899-4d7d-b070-7903c4964f5b" />
 <img width="1424" height="483" alt="image" src="https://github.com/user-attachments/assets/f949eeb0-8a3a-43ab-90c3-832cf74c716b" />
 <img width="1424" height="684" alt="image" src="https://github.com/user-attachments/assets/10ca5f15-c228-42d5-857b-c4b6c51c7c96" />
-<img width="1424" height="684" alt="image" src="https://github.com/user-attachments/assets/10ca5f15-c228-42d5-857b-c4b6c51c7c96" />
 <img width="1424" height="740" alt="image" src="https://github.com/user-attachments/assets/42939021-4fa5-4100-aeeb-7c32b1b86970" />
 
 ---
@@ -271,4 +270,5 @@ Built with ❤️ for a sustainable future in aviation
 For issues or questions, please open an issue on GitHub.
 
 **Let's make aviation more sustainable, one optimized route at a time! 🌍✈️**
+
 
