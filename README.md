@@ -230,7 +230,7 @@ f(n) = g(n) + h(n)
 
 ## 🔜 Future Enhancements
 
-- [ ] 3D Globe visualization with Mapbox GL
+- [ ] 3D Globe visualization with leaflet
 - [ ] Weather data integration
 - [ ] Historical flight data analysis
 - [ ] User accounts and saved routes
@@ -270,5 +270,6 @@ Built with ❤️ for a sustainable future in aviation
 For issues or questions, please open an issue on GitHub.
 
 **Let's make aviation more sustainable, one optimized route at a time! 🌍✈️**
+
 
 
