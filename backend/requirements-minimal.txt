@@ -1,0 +1,23 @@
+# MINIMAL INSTALLATION - Core packages only
+# Use this if requirements-lite.txt has issues
+
+# Web Framework
+fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy
+
+# Data Processing
+pandas
+numpy>=2.0.0
+geopy
+
+# AI/ML
+scikit-learn
+networkx
+
+# Utilities
+pydantic
+python-dotenv
+requests
